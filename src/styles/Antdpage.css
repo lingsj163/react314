@@ -1,0 +1,8 @@
+.ant-checkbox-label {
+  font-size: 10px;
+}
+
+.ant-checkbox-group {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.App {
+  /* text-align: center; */
+  /* background-color: aqua; */
+  margin-bottom: 100px;
+}
+
+/* 5. 不同类名使用不同样式 */
+.title {
+  background-color: aquamarine;
+  font-size: 40px;
+}
+.box {
+  color:red;
+  font-weight: 800;
+}
+
